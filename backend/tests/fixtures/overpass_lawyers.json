@@ -1,0 +1,9 @@
+{
+  "version": 0.6,
+  "elements": [
+    {"type": "node", "id": 1, "tags": {"office": "lawyer", "name": "Nilsson & Co Advokatbyrå AB", "website": "www.nilssonco.example", "phone": "+46 31 123 45 67", "addr:street": "Kungsgatan", "addr:housenumber": "1", "addr:postcode": "411 19", "addr:city": "Göteborg"}},
+    {"type": "way", "id": 2, "center": {"lat": 57.7, "lon": 11.9}, "tags": {"office": "lawyer", "name": "Berg Juristbyrå", "contact:website": "https://berg.example/", "contact:email": "info@berg.example"}},
+    {"type": "node", "id": 3, "tags": {"office": "lawyer"}},
+    {"type": "node", "id": 4, "tags": {"office": "lawyer", "name": "Nilsson & Co Advokatbyrå AB", "website": "https://nilssonco.example", "addr:city": "Göteborg"}}
+  ]
+}
